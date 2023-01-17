@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{5A2C988A-02F5-8555-28D3-645455AFE2A6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/mainBranchScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/mainBranchScript.cs" Line="9" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GitTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="15b93b25-fae7-40a1-ae46-b0894245ebfc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
