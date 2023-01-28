@@ -7,5 +7,6 @@ public class mainBranchScript : MonoBehaviour
     private void Start()
     {
         Debug.Log("Main Branch Log");
+        Debug.Log("Test Branch Log");
     }
 }
